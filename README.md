@@ -1,2 +1,2 @@
 # CRT
-this is a sample repository
+this is a sample repository about github introduction
